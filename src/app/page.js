@@ -30,6 +30,7 @@ const profesores = [
   { nombre: "Prof. Maria Ignacia Espinoza Oyarzo", telefono: "56975301180" },
   { nombre: "Prof. Mario Ignacio Larger Vergara", telefono: "56995954452" },
   { nombre: "Prof. Fabian Tobar", telefono: "56991709265" },
+  { nombre: "Prof. Bernardo Andres Inostroza Ibarra", telefono: "56979383655" },
 ];
 
 export default function HomePage() {
